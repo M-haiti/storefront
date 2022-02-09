@@ -10,4 +10,4 @@ values
   (7, 'Baking', null),
   (8, 'Spices', null),
   (9, 'Toys', null),
-  (10, 'Magazines', null);r
+  (10, 'Magazines', null);
