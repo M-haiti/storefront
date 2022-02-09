@@ -13,16 +13,7 @@ values
   (10, 'Magazines', null);
 
 insert into
-  store_product (
-    id,
-    title,
-    description,
-    unit_price,
-    inventory,
-    last_update,
-    collection_id,
-    slug
-  )
+  store_product (id, title, `description`, unit_price, inventory, last_update, collection_id, slug)
 values
   (
     1,
